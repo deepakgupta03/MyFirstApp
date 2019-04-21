@@ -1,0 +1,20 @@
+[
+  {
+    "firstname": "abc",
+    "lastname": "lastname",
+    "vechicleno": "123",
+    "mobileno": 1234567890,
+    "address": "abc",
+    "pickupdate": "23-1-2018",
+    "returndate": "25-1-2018"
+  },
+  {
+    "firstname": "xyz",
+    "lastname": "lastname",
+    "vechicleno": "456",
+    "mobileno": 1234567890,
+    "address": "abc",
+    "pickupdate": "23-1-2018",
+    "returndate": "25-1-2018"
+  }
+]
